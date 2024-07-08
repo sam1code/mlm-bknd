@@ -11,6 +11,8 @@ app.use(
       "http://localhost",
       "http://localhost:3000",
       "http://localhost:3001",
+      "https://mlm-ixbje4pnz-soumyakanta-pattanaiks-projects.vercel.app",
+      "https://mlm-admin-two.vercel.app",
     ],
     credentials: true,
     allowedHeaders: ["Content-Type", "Authorization", "x-refresh-token"],
